@@ -1,0 +1,17 @@
+#title p{
+	font-family: Arial, Serif;
+	font-size: 3em;
+
+}
+.description{
+	font-family: Bell MT, Serif;
+	font-size:1em;
+}
+#benefits p[align="center"]{
+	font-family: Bell MT, Serif;
+	font-size:1em;
+}
+#Ingredients p[align="center"]{
+	font-family: Bell MT, Serif;
+	font-size: 1em;
+}
